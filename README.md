@@ -24,5 +24,9 @@ Our project can be used as a module wherever a real-time weather report is requi
 Who maintains and contributes to the project?
 We are 3 members and you can contact us with our LinkedIn url
 SAHIL PATHANIA : https://www.linkedin.com/in/sahil-pathania-620225203/
+
+
 SAHIL YADAV : https://www.linkedin.com/in/ysahil2002/
+
+
 SOUMYADEEP R DAS : https://www.linkedin.com/in/soumyadeep-r-das-402b89200/ 
