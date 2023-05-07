@@ -2,6 +2,7 @@
                                                     https://aceweather.web.app/
                                                                  
                                                                  
+Note :- You can open site in your desktop, PC or any other browsing devices.
 
 Q1. What the project does?
 
