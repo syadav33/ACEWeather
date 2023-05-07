@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather Web</title>
+  </head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="indexc.css">
+  <script src="index1.js" type="module"></script>
+  <script src="index2.js" type="module"></script>
+  <body>
+    <header>
+      <div class="navbar">
+        <img src="02d@2x.png" alt="failed-to-load">
+        <nav>
+          <ul>
+            <li><h1>ACE<span class="rrr">Weather</span>.com</h1></li>
+            <li><div class="left"></div></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="body">
+      <div class="card">
+        <div class="class">
+          <div class="search">
+            <input type="text" id="searchbox" placeholder="Enter City Name / Zip Code, Country Code"/>
+            <button id="btn"><svg viewBox="0 0 1024 1024"><path class="path1" d="M848.471 928l-263.059-263.059c-48.941 36.706-110.118 55.059-177.412 55.059-171.294 0-312-140.706-312-312s140.706-312 312-312c171.294 0 312 140.706 312 312 0 67.294-24.471 128.471-55.059 177.412l263.059 263.059-79.529 79.529zM189.623 408.078c0 121.364 97.091 218.455 218.455 218.455s218.455-97.091 218.455-218.455c0-121.364-103.159-218.455-218.455-218.455-121.364 0-218.455 97.091-218.455 218.455z"></path></svg></button>
+          </div>
+          <div class="error">* zip code eg. : 530009,IN</div>
+          <div class="weather">
+            <h2 class="city">Weather in INDIA</h2>
+            <div class="temp">51<sup>o</sup>C</div>
+            <img src="#" alt="Img not assingned yet" class="icon">
+            <div class="description"></div>
+            <div class="humidity"></div>
+            <div class="wind"></div>
+          </div>
+        </div>
+      </div>
+      <div class="weatherContainer">
+          <div id="iconsContainer">
+              <div class="icons">
+                  <p class="weather" id="day1"></p>
+                  <div class="image"><img src="09n@2x.png" class="imgClass" id="img1"></div>
+                  <p class="minValues" id="day1Min">Min : -</p>
+                  <p class="maxValues" id="day1Max">Max : -</p>
+              </div>
+              <div class="icons">
+                  <p class="weather" id="day2"></p>
+                  <div class="image"><img src="09n@2x.png" class="imgClass" id="img2"></div>
+                  <p class="minValues" id="day2Min">Min : -</p>
+                  <p class="maxValues" id="day2Max">Max : -</p>
+              </div>
+              <div class="icons">
+                  <p class="weather" id="day3"></p>
+                  <div class="image"><img src="09n@2x.png" class="imgClass" id="img3"></div>
+                  <p class="minValues" id="day3Min">Min : -</p>
+                  <p class="maxValues" id="day3Max">Max : -</p>
+              </div>
+          </div>
+      </div>
+    </div>
+    <!-- <footer>
+      <h2>Developers:-</h2>
+      <p>Sahil Pathania ⇛ <span>122010302048</span></p>
+      <p>Sahil Yadav ⇛ <span>122010331050</span></p>
+      <p>Soumyadeep R Das ⇛ <span>122010332039</span></p>
+    </footer> -->
+  </body>
+</html>
