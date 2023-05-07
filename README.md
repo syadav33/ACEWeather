@@ -9,9 +9,11 @@ ACEWeather.com is online weather application provides information about the weat
 It makes use OpenWeather API and Firebase database for providing real-time information.
 
 Q2. Why the project is useful?
+
 Whenever a user wants to visit some places around, he or she just has to mention the city or zip code of that area so that he or she can plan his day accordingly.
 
 Q3. How users can get started with the project?
+
 Users need to download these files into a single folder and run the live server using Visual Studio Code.
 For more demonstrations see the YouTube video: 
 https://youtu.be/y4qqQeUDCBQ
@@ -19,9 +21,11 @@ https://youtu.be/y4qqQeUDCBQ
 Or you can visit the site: https://aceweather.web.app
 
 Q4. Where users can get help with your project?
+
 Our project can be used as a module wherever a real-time weather report is required, you just have to link our url(https://aceweather.web.app) with your main project.
 
 Q5. Who maintains and contributes to the project?
+
 We are 3 members and you can contact us with our LinkedIn url
 
 
