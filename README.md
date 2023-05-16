@@ -8,7 +8,7 @@ Note :- You can open site in your desktop, PC or any other browsing devices.
 
 Q1. What the project does?
 
-ACEWeather.com is online weather application provides information about the weather conditions of the city. The site requires either the City name to be searched or zip code of your region. It identifies the location and provides real-time current weather report and estimations of the next 3 days weather report oy your region.
+ACEWeather.com is online weather application provides information about the weather conditions of the city. The site requires either the City name to be searched or zip code of your region. It identifies the location and provides real-time current weather report and estimations of the next 3 days weather report of your region.
 It makes use OpenWeather API and Firebase database for providing real-time information.
 
 Q2. Why the project is useful?
